@@ -164,7 +164,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📧 Contact
 
 Developed by \[Your Name]
-📩 Email: [your.email@example.com](mailto:your.email@example.com)
-📸 Instagram: [@yourusername](https://instagram.com/yourusername)
+📩 Email: [sadhikali0867@gmail.com](mailto:sadhikali0867@gmail.com)
+📸 Instagram: [@sadhiqq__ali](https://www.instagram.com/sadhiqq__ali/)
 
 ---
