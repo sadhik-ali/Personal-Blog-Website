@@ -39,8 +39,8 @@ blog/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/django-personal-blog.git
-cd django-personal-blog
+git clone https://github.com/sadhik-ali/Personal-Blog-Website.git
+cd Personal-Blog-Website
 ```
 
 ### 2. Set up Virtual Environment
