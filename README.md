@@ -136,18 +136,6 @@ To run tests:
 python manage.py test
 ```
 
----
-
-## 🌐 Deployment (Optional)
-
-You can deploy this project to:
-
-* **Render**
-* **Vercel + Django backend**
-* **Heroku (with free PostgreSQL)**
-* **DigitalOcean / VPS**
-
----
 
 ## 📄 License
 
